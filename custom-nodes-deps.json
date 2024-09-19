@@ -1,0 +1,49 @@
+{
+    "custom_nodes": {
+        "https://github.com/cubiq/ComfyUI_essentials": {
+            "state": "installed",
+            "hash": "-"
+        },
+        "https://github.com/melMass/comfy_mtb": {
+            "state": "installed",
+            "hash": "-"
+        },
+        "https://github.com/evanspearman/ComfyMath": {
+            "state": "installed",
+            "hash": "-"
+        },
+        "https://github.com/kijai/ComfyUI-KJNodes": {
+            "state": "installed",
+            "hash": "-"
+        },
+        "https://github.com/cubiq/ComfyUI_IPAdapter_plus": {
+            "state": "installed",
+            "hash": "-"
+        },
+        "https://github.com/ShmuelRonen/ComfyUI_Gemini_Flash": {
+            "state": "installed",
+            "hash": "-"
+        },
+        "https://github.com/WASasquatch/was-node-suite-comfyui": {
+            "state": "installed",
+            "hash": "-"
+        },
+        "https://github.com/giriss/comfy-image-saver": {
+            "state": "installed",
+            "hash": "-"
+        },
+        "https://github.com/KoreTeknology/ComfyUI-Universal-Styler": {
+            "state": "installed",
+            "hash": "-"
+        },
+        "https://github.com/M1kep/ComfyLiterals": {
+            "state": "installed",
+            "hash": "-"
+        },
+        "https://github.com/Fannovel16/comfyui_controlnet_aux": {
+            "state": "installed",
+            "hash": "-"
+        }
+    },
+    "unknown_nodes": []
+}
